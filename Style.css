@@ -1,0 +1,17 @@
+body {
+	background-color: #BDBDBD;
+}
+input[type="button"] {
+	margin-bottom: 10px;
+}
+input[type="text"] {
+	margin: 1px;
+	border:none;
+}
+table {
+	border-collapse : collapse;
+}
+td{
+	background-color: #FAFAFA;
+	border: 2px solid #BEF781;
+}
